@@ -55,8 +55,9 @@ import { render } from "react-dom";
 import { OtherComponent } from "../components/OtherComponent";
 import { AnotherComponent } from "../components/AnotherComponent";
 
-// add a React component AnotherComponent in about.php, in div with id about
+// add a React component OtherComponent in about.php, in div with id about
 render(<OtherComponent />, document.getElementById("about"));
 
+// add a AnotherComponent
 render(<AnotherComponent />, document.getElementById("about2"));
 ```
