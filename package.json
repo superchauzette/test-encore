@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "start": "encore dev --watch",
+    "dev": "npx serve",
     "lint": "eslint 'front/**/*.{js,ts,tsx}'",
     "test": "jest front",
     "build": "encore production"
