@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a11c7529-5745-4c7f-a0a9-38821b3d8b2f/deploy-status)](https://app.netlify.com/sites/gallant-davinci-407a19/deploys)
+
 # Test add react on php site
 
 ```
