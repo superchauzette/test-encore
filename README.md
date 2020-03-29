@@ -63,3 +63,17 @@ render(<OtherComponent />, document.getElementById("about"));
 // add a AnotherComponent
 render(<AnotherComponent />, document.getElementById("about2"));
 ```
+
+## Developement environement
+
+```
+/front
+    /pages
+        index.tsx
+        about.tsx
+    /components
+        Counter.tsx
+        AnOtherComponent.tsx
+```
+
+any file in pages folder will gererate a separate file in build folder (it add un entry in webpack)

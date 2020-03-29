@@ -13,18 +13,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@rebass/preset": "^4.0.5",
     "@types/react": "^16.9.26",
     "@types/react-dom": "^16.9.5",
     "@types/react-modal": "^3.10.5",
     "core-js": "^3.6.4",
+    "emotion-theming": "^10.0.27",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-modal": "^3.11.2"
+    "react-modal": "^3.11.2",
+    "rebass": "^4.0.7"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "@symfony/webpack-encore": "^0.28.3",
+    "@types/rebass": "^4.0.4",
     "@typescript-eslint/eslint-plugin": "^2.25.0",
     "@typescript-eslint/parser": "^2.25.0",
     "babel-eslint": "^10.1.0",
